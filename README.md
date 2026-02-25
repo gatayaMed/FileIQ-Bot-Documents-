@@ -290,7 +290,7 @@ Contributions are welcome! Please feel free to:
 
 For issues, questions, or suggestions:
 - Create an issue on GitHub
-- Contact: med@smarta.website
+- Contact: 
 
 ## 🙏 Acknowledgments
 
